@@ -1,1 +1,177 @@
-# Iana-Jia-M.-Sequijor
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>ICT Portfolio</title>
+  </style>
+</head>
+
+<body>
+  <!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero">
+            
+            <h1><span>I</span>ana <span>S</span>EQUIJOR</h1>
+          </a>
+          
+        </div>
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#services" data-after="Service">Hobbies</a></li>
+            <li><a href="#projects" data-after="Projects">Books</a></li>
+            <li><a href="#Sports" data-after="About">Sports</a></li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
+
+  <!-- Hero Section  -->
+  <section id="hero">
+    <div class="hero container">
+      <div>
+        
+        <h1>Hello, <span></span></h1>
+        <h1>I am <span></span></h1>
+        <h1>Iana Jia M. Sequijor <span></span></h1> 
+        <a href="#projects" type="button" class="cta">Portfolio</a>
+      </div>
+      <div class="service-bottom">
+        <div class="service-item">
+          
+    </div>  &nbsp;
+    <div class="icon"><img src="PICTURE.jpg" style="width: 200px; height: 200px;"/> </div>
+  </section>
+  
+  <!-- End Hero Section  -->
+
+  <!-- Service Section -->
+  <section id="services">
+    <div class="services container">
+      <div class="service-center">
+        <h1 class="section-title">H<span>obbie</span>s</h1>
+        <p style="text-align: center;">Hobbies play a role in a person's life, encompassing numerous benefits and contributing to their overall well-being. Hobbies offer a sense of personal fulfillment and satisfaction as individuals delve into activities aligned with their interests and passions. Platforms for skill development, intellectual stimulation, and personal growth, fostering creativity, expanding knowledge, and enhancing problem-solving abilities. I've always have to find things that keeps me entertained and these hobbies really gave me somewhat peace of mind and more. </p>
+      </div>
+      <div class="service-bottom">
+        <div class="service-item">
+          <div class="icon"><img src="WRITING.jpg"/> </div>
+          <h2>WRITING</h2>
+          <p> Writing gives me a sense of complexity in my mind, which makes me want to do it more. Writing has helped me communicate with a lot of people who also have a passion for writing. </p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="READING.jpg"/> </div>
+          <h2>READING</h2>
+          <p> Reading is one of my favorite hobbies, since most of the time I am on my phone or indulging in my books. </p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="OUTDOOR.jpg" /></div>
+          <h2>Outdoor Activities</h2>
+          <p> Doing Outdoor Activities makes me another human being, As what I am on the indoor is so far away from what I am outside of my house and town.</p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="DOC.jpg" /></div>
+          <h2>Watching Documentaries about History</h2>
+          <p>Watching these type of Documentaries gives me so much excitement, seeing how people get dead people out of their tombs, seeing on how they died, how they survive on their society and more.</p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="MUSIC.jpg" /></div>
+          <h2>Listening to Music</h2>
+          <p>Listening to music is MY MOST FAVORITE HOBBY. no excuses. Listening music makes me feel my inner self, I can dance to it, I can let my emotions out, everything. </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Service Section -->
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <div class="projects container">
+      <div class="projects-header">
+        <h1 class="section-title">FAVORITE<span>bookS</h1>
+      </div>
+      <div class="all-projects">
+        <div class="project-item">
+          <div class="project-info">
+            <h1>All Series of Fifty Shades of Grey</h1>
+            <h2>Fifty Shades of Grey <vr> , Fifty Shades of Freed , Fifty Shades Darker   (no words, i love it) </h2>
+            <p> </p>
+          </div>
+          <div class="project-img">
+            <img src="book.jpg" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>48 Laws of Power</h1>
+            <h2>Lessons that teached me alot of knowledge for the world.</h2>
+            <p></p>
+          </div>
+          <div class="project-img">
+            <img src="book2.jpg" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Normal People</h1>
+            <h2>LOVE IT</h2>
+            <p>I love how they create a bond with their traumas and insecurities and more. </p> 
+          </div>
+          <div class="project-img">
+            <img src="book3.jpg" alt="img">
+          </div>
+        </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>The Art of Seduction</h1>
+            <h2>LOVE IT</h2>
+            <p>It made me understand more on the concept of seduction etc. </p> 
+          </div>
+          <div class="project-img">
+            <img src="book4.jpg" alt="img">
+          </div>
+        </div>
+
+          <!-- Service Section -->
+  <section id="services">
+    <div class="services container">
+      <div class="service-center">
+        <h1 class="section-title">S<span>port</span>s</h1>
+        <p> Sports that I love to do / watch. </p>
+      </div>
+      <div class="service-bottom">
+        <div class="service-item">
+          <div class="icon"><img src="BADMINTON.jpg"/> </div>
+          <h2>Badminton</h2>
+          <p> It's so fun to play. It improves my speed and agility  </p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="BASKETBALL.jpg" /></div>
+          <h2>Basketball</h2>
+          <p> Playingg this sport since I was still a kid and I still do. </p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="VOLLEYBALL.jpg" /></div>
+          <h2>Volleyball</h2>
+          <p>Love watching tournaments, and seeing people play with a twist.</p>
+        </div>
+        <div class="service-item">
+          <div class="icon"><img src="GOLF.jpg" /></div>
+          <h2>Golf</h2>
+          <p>Watching people playing this sport amazes me so much. On how the swing their clubs.  </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Service Section -->
